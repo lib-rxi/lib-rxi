@@ -1,5 +1,11 @@
 # Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="lib-rxi's GitHub profile card" src="dark_mode.svg" width="100%" />
+</picture>
+
 I'm a security engineer who likes to build things. Most of what I write is tooling: scanners, custom rules, parsers and small automations that make security less manual.
 
 - 🔭 Building security automation and the occasional browser extension
