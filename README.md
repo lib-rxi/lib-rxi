@@ -1,11 +1,10 @@
 # Hi there 👋
 
-I'm an application security engineer with 9+ years of experience securing software across fintech and enterprise environments. I build security into every stage of the SDLC, from threat modeling at design time to automated scanning in CI/CD and incident response in production.
+I'm an application security engineer. I build security into every stage of the software development lifecycle, from threat modeling at design time to automated scanning in CI/CD and incident response in production.
 
-- 🔐 Currently Senior Security Engineer at **Prosper Marketplace**; previously **Razorpay** and **SAP**
+- 🔐 Focused on application security, mostly in fintech and enterprise software
 - 🛠️ I like building the tooling that makes security scale: custom SAST rules, DAST automation, vulnerability pipelines and scoring
-- 🎓 M.Tech in Information Security
-- 📄 Full background on my [portfolio](https://lib-rxi.github.io/portfolio/)
+- 🤝 I enjoy training developers and security champions
 
 ## What I work on
 
@@ -21,7 +20,6 @@ I'm an application security engineer with 9+ years of experience securing softwa
 ## Projects
 
 - [Snipper](https://github.com/lib-rxi/Snipper) – a simple bookmark plugin for Chrome
-- [portfolio](https://github.com/lib-rxi/portfolio) – my resume site, built with Jekyll and GitHub Pages
 
 ## Side interests
 
